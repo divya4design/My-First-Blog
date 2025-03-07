@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-dor=^yb@81965#xh2$c(p*h8#v5z+tjn+4m+(t9e91jb4bn6!@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["divya4design.pythonanywhere.com"]
 
 
 # Application definition
